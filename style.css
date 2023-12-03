@@ -1,25 +1,24 @@
 .nav-bar {
-    background-color: red;
-    color: blue;
-    height: 135px;
-    margin: 200px;
+    background-color: aquamarine;
+    color: blueviolet;
+    height: 25px;
+    margin: 30px;
     text-align: center;
 }
 .banner {
-    background-color: purple;
-    height: 110px;
+    background-color: azure;
+    height: 200px;
 }
 .content {
-    background-color: green;
-    height: 100px;
+    background-color: blanchedalmond;
+    height: 400px;
 }
 .footer {
     background-color: black;
-    height: 200px;
-    margin: 20px;
+    height: 100px;
+    margin: 50px;
 }
 img {
     width: 100%;
-    
-    filter: graysacle(50%) invert(100%);
+    filter: blur(50%) invert(100%);
 }
